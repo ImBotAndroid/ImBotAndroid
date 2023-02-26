@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, There
 
-<!--
-**ImBotAndroid/ImBotAndroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Dicky Pratama**.
 
-Here are some ideas to get you started:
+Saya seorang yang senang belajar pembuatan aplikasi menggunakan **Android & Kotlin**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya lulusan Universitas Budi Luhur pada bulan November tahun 2021 dengan jurusan teknik Informatika
+
+Saya juga memiliki beberapa sertifikat belajar dari [Dicoding Indonesia](https://www.linkedin.com/in/dickyprtm6/details/certifications/).
+
+Jika kamu tertarik untuk berbincang dengan saya, silakan kunjungi akun [Linkedin](https://www.linkedin.com/in/dickyprtm6/) saya.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ImBotAndroid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImBotAndroid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImBotAndroid&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
